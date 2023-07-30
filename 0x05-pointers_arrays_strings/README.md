@@ -1,4 +1,5 @@
-C - Pointers, arrays and string
+[200~C - Pointers, arrays and strings
+#TASKS
 98 Battery st.
 Write a function that takes a pointer to an int as parameter and updates the value it points to to 98.
 Prototype: void reset_to_98(int *n);
